@@ -5,7 +5,7 @@ class Config:
 
     BOT_TOKEN = "5231238723:AAFppyPBD3VKzj_-kHMXquwEVv1fAcOJCl4"
 
-    SESSION_NAME = ":memory:"
+    SESSION_NAME = "pupper4u"
 
     API_ID = "615235511058-069l2a67jlqhred7f4g8glecdq4pou7l.apps.googleusercontent.com"
 
