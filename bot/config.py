@@ -5,13 +5,13 @@ class Config:
 
     BOT_TOKEN = "5231238723:AAFppyPBD3VKzj_-kHMXquwEVv1fAcOJCl4"
 
-    SESSION_NAME = "pupper4u"
+    SESSION_NAME = "pupperu"
 
     API_ID = "615235511058-069l2a67jlqhred7f4g8glecdq4pou7l.apps.googleusercontent.com"
 
     API_HASH = "dd19a00b085a219421a3717d0ae9c0d0"
 
-    CLIENT_ID = ""
+    CLIENT_ID = "615235511058-069l2a67jlqhred7f4g8glecdq4pou7l.apps.googleusercontent.com"
 
     CLIENT_SECRET = "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"
 
