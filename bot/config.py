@@ -17,7 +17,7 @@ class Config:
 
     BOT_OWNER = "1237712948"
 
-    AUTH_USERS_TEXT = "AUTH_USERS"
+    AUTH_USERS_TEXT = "1237712948"
 
     AUTH_USERS = [BOT_OWNER, 754495556] + (
         [int(user.strip()) for user in AUTH_USERS_TEXT.split(",")]
