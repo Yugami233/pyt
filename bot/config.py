@@ -7,7 +7,7 @@ class Config:
 
     SESSION_NAME = "pupperu"
 
-    API_ID = "615235511058-069l2a67jlqhred7f4g8glecdq4pou7l.apps.googleusercontent.com"
+    API_ID = "5948230"
 
     API_HASH = "dd19a00b085a219421a3717d0ae9c0d0"
 
